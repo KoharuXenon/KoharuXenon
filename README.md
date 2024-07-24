@@ -5,5 +5,5 @@
   <img height=200 align="center" src="https://funni-vercel.vercel.app/api?username=KoharuXenon&show_icons=true&theme=omni&include_all_commits=true" />
 </a>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=KoharuXenon&theme=omni" />
+<img height=200 align="center" src="https://funni-vercel.vercel.app/api/wakatime?username=KoharuXenon&theme=omni" />
 <img src="https://koharuxenon.github.io/korusite/images/shiggy.gif">:3
