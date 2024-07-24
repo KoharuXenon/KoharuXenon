@@ -1,5 +1,5 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://funni-vercel.vercel.app/api/top-langs/?username=KoharuXenon&theme=omni&layout=compact&langs_count=8&card_width=320&exclude_repo=koru.kitecreature.net,funni-vercel"/>
+![image](https://github.com/user-attachments/assets/65e9c793-294b-40dc-b108-e2a940064d26)<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://funni-vercel.vercel.app/api/top-langs/?username=KoharuXenon&theme=omni&layout=compact&langs_count=8&card_width=320&exclude_repo=koru.kitecreature.net,funni-vercel,MissingEngine,Missing-Engine2,Missing-Engine-Psyche"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://funni-vercel.vercel.app/api?username=KoharuXenon&show_icons=true&theme=omni&include_all_commits=true" />
